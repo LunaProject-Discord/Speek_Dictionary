@@ -1,2 +1,2 @@
-# Speek_Dictional
-音声合成用の生成辞書
+# Speek_Dictionary
+音声合成用の辞書
